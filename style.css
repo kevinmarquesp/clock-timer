@@ -1,0 +1,42 @@
+body {
+    padding: 0;
+    font-family: Arial;
+    text-align: center;
+    background-image: linear-gradient( to right, rgb(116, 29, 255), rgb(0, 32, 136))
+}
+* { margin: 0; }
+
+section {
+    margin: 50px 10px 10px 10px;
+}
+div.glass {
+    background-image: linear-gradient( to right, rgb(255, 255, 255), rgba(255, 255, 255, 0.301));
+
+    border-radius: 20px;
+    max-width: 500px;
+    margin:  10px auto;
+    padding: 20px;
+}
+h1 {
+    margin: 10px 0 10px 0;
+}
+input {
+    border-style: none;
+    height: 30px; width: 60px;
+    border-radius: 20px;
+    padding-left: 20px;
+    margin: 5px 5px;
+}
+button {
+    width: 100px;
+    border-radius: 10px;
+    border-style: none;
+    padding: 10px;
+    background-color: rgb(39, 125, 223);
+    color: white;
+    margin-top: 10px;
+}
+
+div.big {
+    font-size: 50px;
+}
