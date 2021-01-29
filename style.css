@@ -19,13 +19,14 @@ div.glass {
 }
 h1 {
     margin: 10px 0 10px 0;
+    color: rgb(14, 69, 133);
 }
 input {
     border-style: none;
-    height: 30px; width: 60px;
+    height: 30px; width: 100px;
     border-radius: 20px;
-    padding-left: 20px;
     margin: 5px 5px;
+    text-align: center;
 }
 button {
     width: 100px;
